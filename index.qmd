@@ -1,7 +1,5 @@
 # Halo! {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
-
 Halo!
 
 Aku Antania Hanjani Yustika Putri (18224083), mahasiswi semester tiga Sistem dan Teknologi Informasi ITB dari kelas K01.
