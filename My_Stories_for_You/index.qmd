@@ -2,7 +2,7 @@
 
 ## **Satu Gigitan Kue Putu** {.unnumbered}
 
-![About Me](images/KuePutu.jpg){width=950%}
+![About Me](../images/KuePutu.jpg){width=950%}
 
 Oleh Antania Hanjani Y. P.
 

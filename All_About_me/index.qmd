@@ -1,5 +1,7 @@
 # UTS-1 All About Me
 
+![About Me](../images/Anta.jpg){width=950%}
+
 Halo! Aku Antania Hanjani Yustika Putri, panggil ssaja Antania (biar nggak selengkap nama di KTP hahahah).
 Aku lahir dan besar di Serang, kota pesisir di ujung barat Pulau Jawa yang panasnya kadang bikin es krim menyerah duluan. Sekarang aku tinggal di Bandung, kota yang katanya “sejuk”, tapi buat anak pesisir kayak aku, dinginnya bisa terasa sampai tulang.
 
